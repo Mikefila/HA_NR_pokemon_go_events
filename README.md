@@ -1,5 +1,5 @@
 # HA_NR_pokemon_go_events
-A Nodered flow for Home Assistant to bring in pokemon go events for notification and dash reminders
+A Nodered flow for Home Assistant to bring in pokemon go events for notification and dash reminders.
 
 
 Create text and dashboard notification for all pokemon go events.
