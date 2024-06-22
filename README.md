@@ -85,5 +85,5 @@ To add the upcoming media card use:
     title: null
     image_style: fanart
     date: mm/dd
-columns: 1
+
 ```
